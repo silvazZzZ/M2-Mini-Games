@@ -4,7 +4,7 @@ Projeto desenvolvido em C++ com um menu interativo contendo dois jogos executado
 
 ## Funcionalidades
 
-### 1. Jogo da Adivinhação
+### 🎲 1. Jogo da Adivinhação
 
 O jogador deve descobrir um número aleatório entre `-100` e `100`.
 
@@ -16,7 +16,7 @@ O sistema fornece dicas progressivas conforme o número de tentativas:
 * Informação da distância entre o palpite anterior e o número secreto a partir da 12ª tentativa;
 * Regras adicionais criativas para tornar a experiência mais dinâmica.
 
-### 2. Quiz de Conhecimentos Gerais
+### 🧠 2. Quiz de Conhecimentos Gerais
 
 Quiz com perguntas de múltipla escolha sobre temas variados, como:
 
