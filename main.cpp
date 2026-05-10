@@ -16,8 +16,6 @@ int main()
     int numero = rand() % 201 - 100;
     int palpite;
 
-    cout << "Mostrar número aleatório: " << numero << endl;
-
     cout << "Digite um palpite: " << endl;
     cin >> palpite;
 
