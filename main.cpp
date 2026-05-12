@@ -114,8 +114,7 @@ int main()
 
 )" << endl;
 
-            cout << "\n============= \n"
-                 << endl;
+            cout << "\n============= \n"<< endl;
             cout << "Parabéns você acertou!!" << endl;
             cout << "Parabéns você acertou!!" << endl;
             cout << "Parabéns você acertou!!" << endl;
@@ -146,11 +145,12 @@ int main()
                 {
                 
                 cout<<"| Geografia |"<<endl;
-                cout<<"1. Qual � o maior oceano da Terra?"<<endl;
-                cout<<"A) Oceano Atl�ntico"<<endl;
-                cout<<"B) Oceano �ndico"<<endl;
-                cout<<"C) Oceano Pac�fico"<<endl;
-                cout<<"D) Oceano �rtico"<<endl;
+                cout<<"1. Qual é o maior oceano da Terra?"<<endl;
+                cout<<"A) Oceano Atlântico"<<endl;
+                cout<<"B) Oceano Índico"<<endl;
+                cout<<"C) Oceano Pacífico"<<endl;
+                cout<<"D) Oceano Ártico"<<endl;
+
                 cout<<"\nDigite a letra: ";
                 cin>>resposta;
 
@@ -173,6 +173,7 @@ int main()
                 cout<<"B) Leonardo da Vinci"<<endl;
                 cout<<"C) Vincent van Gogh"<<endl;
                 cout<<"D) Michelangelo"<<endl;
+
                 cout<<"\n Digite a letra: ";
                 cin>>resposta;
 
@@ -190,11 +191,12 @@ int main()
                             }
 
                             cout<<"| Astronomia |"<<endl;
-                            cout<<"3. Qual planeta � conhecido como \"Planeta Vermelho\"?"<<endl;
+                            cout<<"3. Qual planeta é conhecido como \"Planeta Vermelho\"?"<<endl;
                             cout<<"A) Marte"<<endl;
                             cout<<"B) Saturno"<<endl;
-                            cout<<"C) J�piter"<<endl;
-                            cout<<"D) V�nus"<<endl;
+                            cout<<"C) Júpiter"<<endl;
+                            cout<<"D) Vênus"<<endl;
+
                             cout<<"\n Digite a letra: ";
                             cin>>resposta;
 
@@ -211,12 +213,13 @@ int main()
 
                             }
                              
-                            cout<<"| Hist�ria |"<<endl;
-                            cout<<"4.Em que pa�s foram realizados os primeiros jogos Ol�mpicos da Antiguidade"<<endl;
-                            cout<<"A) It�lia"<<endl;
+                            cout<<"| História |"<<endl;
+                            cout<<"4.Em que país foram realizados os primeiros jogos Olímpicos da Antiguidade"<<endl;
+                            cout<<"A) Itália"<<endl;
                             cout<<"B) Egito"<<endl;
-                            cout<<"C) Gr�cia"<<endl;
-                            cout<<"D) Fran�a"<<endl;
+                            cout<<"C) Grécia"<<endl;
+                            cout<<"D) França"<<endl;
+                            
                             cout<<"\n Digite a letra: ";
                             cin>>resposta;
 
@@ -237,6 +240,7 @@ int main()
                             cout<<"B) Cavalo"<<endl;
                             cout<<"C) Guepardo"<<endl;
                             cout<<"D) Lobo"<<endl;
+
                             cout<<"\n Digite a letra: ";
                             cin>>resposta;
 
@@ -259,12 +263,13 @@ int main()
                     case 2:
 
                         {
-                            cout<<"| Qu�mica |"<<endl;
-                            cout<<"1.Qual destes elementos qu�micos � representado pela sigla \"O\"?"<<endl;
+                            cout<<"| Química |"<<endl;
+                            cout<<"1.Qual destes elementos químicos é representado pela sigla \"O\"?"<<endl;
                             cout<<"A) Ouro"<<endl;
-                            cout<<"B) Oxig�nio"<<endl;
-                            cout<<"C) Osmium"<<endl;
+                            cout<<"B) Oxigênio"<<endl;
+                            cout<<"C) Osmio"<<endl;
                             cout<<"D) Prata"<<endl;
+
                             cout<<"\n Digite a letra: ";
                             cin>>resposta;
 
@@ -282,7 +287,7 @@ int main()
                             }
 
                             cout<<"| Geografia |"<<endl;
-                            cout<<"2. Qual � a capital do Canad�?"<<endl;
+                            cout<<"2. Qual é a capital do Canadá?"<<endl;
                             cout<<"A) Toronto"<<endl;
                             cout<<"B) Vancouver"<<endl;
                             cout<<"C) Montreal"<<endl;
@@ -304,12 +309,13 @@ int main()
                             }
 
                             cout<<"| Tecnologia |"<<endl;
-                            cout<<"3. Qual inven��o � atribu�da a Alexander Graham Bell?"<<endl;
-                            cout<<"A) R�dio"<<endl;
-                            cout<<"B) L�mpada"<<endl;
+                            cout<<"3. Qual invenção atribuída a Alexander Graham Bell?"<<endl;
+                            cout<<"A) Rádio"<<endl;
+                            cout<<"B) Lâmpada"<<endl;
                             cout<<"C) Telefone"<<endl;
-                            cout<<"D) Televis�o"<<endl;
+                            cout<<"D) Televisão"<<endl;
                             cout<<"\n Digite a letra: ";
+
                             cin>>resposta;
 
                             if(resposta == 'c' || resposta == 'C'){
@@ -326,11 +332,12 @@ int main()
                             }
 
                             cout<<"| Geometria |"<<endl;
-                            cout<<"4. Qual � o nome da figura geom�trica que possui 3 lados?"<<endl;
-                            cout<<"A) Tri�ngulo"<<endl;
-                            cout<<"B) Ret�ngulo"<<endl;
+                            cout<<"4. Qual é o nome da figura geométrica que possui 3 lados?"<<endl;
+                            cout<<"A) Triângulo"<<endl;
+                            cout<<"B) Retângulo"<<endl;
                             cout<<"C) Quadrado"<<endl;
-                            cout<<"D) Pent�gono"<<endl;
+                            cout<<"D) Pentágono"<<endl;
+
                             cout<<"\n Digite a letra: ";
                             cin>>resposta;
 
@@ -348,11 +355,12 @@ int main()
                             }
 
                             cout<<"| Cultura Pop / Mitologia |"<<endl;
-                            cout<<"5.Qual personagem usa um martelo chamado Mj�lnir?"<<endl;
+                            cout<<"5.Qual personagem usa um martelo chamado Mjölnir?"<<endl;
                             cout<<"A) Loki"<<endl;
                             cout<<"B) Homem de Ferro"<<endl;
                             cout<<"C) Thor"<<endl;
                             cout<<"D) Hulk"<<endl;
+
                             cout<<"\n Digite a letra: ";
                             cin>>resposta;
 
